@@ -4,7 +4,7 @@
 
 ```bash
 # Clone and run
-git clone https://github.com/pipelinepunks/presentation-generator.git
+git clone https://github.com/Jjohnston70/presentation-generator.git
 cd presentation-generator
 python generate_presentation.py your-readme.md slides.html
 open slides.html
