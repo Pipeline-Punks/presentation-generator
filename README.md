@@ -181,4 +181,4 @@ MIT. Do whatever you want.
 
 ---
 
-*Part of [Pipeline Punks Dropouts](https://pipelinepunks.com/dropouts/) - documentation for builders who learn by wiring real systems.*
+*Part of [Pipeline Punks](https://www.pipelinepunks.com) - documentation for builders who learn by wiring real systems.*
